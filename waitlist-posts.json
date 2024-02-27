@@ -4,7 +4,7 @@
         "title": "Adding support for Next.js 14",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
-        "authorImage": "https://raw.githubusercontent.com/cruip/waitlist-next/main/public/images/author-01.jpg?raw=true",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 27",
         "category": "News"
     },
@@ -13,7 +13,7 @@
         "title": "Introducing Waitlist's OpenAPI Spec",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Mary Cienfuegos",
-        "authorImage": "https://github.com/cruip/waitlist-next/blob/main/public/images/author-02.jpg?raw=true",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-02.jpg",
         "date": "Aug 24",
         "category": "News"
     },
@@ -22,7 +22,7 @@
         "title": "Supabase Integration",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Joe Samuel",
-        "authorImage": "https://github.com/cruip/waitlist-next/blob/main/public/images/author-03.jpg?raw=true",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-03.jpg",
         "date": "Aug 24",
         "category": "News"
     },
@@ -31,7 +31,7 @@
         "title": "Release Version 0.4",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
-        "authorImage": "https://raw.githubusercontent.com/cruip/waitlist-next/main/public/images/author-01.jpg?raw=true",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 22",
         "category": "News"
     },
@@ -40,7 +40,7 @@
         "title": "Duplicate prioritization roadmaps",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Joe Samuel",
-        "authorImage": "https://github.com/cruip/waitlist-next/blob/main/public/images/author-03.jpg?raw=true",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-03.jpg",
         "date": "Aug 20",
         "category": "News"
     },
@@ -49,7 +49,7 @@
         "title": "The Changelog widget",
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
-        "authorImage": "https://raw.githubusercontent.com/cruip/waitlist-next/main/public/images/author-01.jpg?raw=true",
+        "authorImage": "https://cruip.github.io/cruip-dummy/waitlist-assets/author-01.jpg",
         "date": "Aug 20",
         "category": "News"
     }
