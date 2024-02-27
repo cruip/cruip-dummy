@@ -5,7 +5,8 @@
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
         "authorImage": "https://raw.githubusercontent.com/cruip/waitlist-next/main/public/images/author-01.jpg?raw=true",
-        "date": "Aug 27"
+        "date": "Aug 27",
+        "category": "News"
     },
     {
         "id": 1,
@@ -13,7 +14,8 @@
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Mary Cienfuegos",
         "authorImage": "https://github.com/cruip/waitlist-next/blob/main/public/images/author-02.jpg?raw=true",
-        "date": "Aug 24"
+        "date": "Aug 24",
+        "category": "News"
     },
     {
         "id": 2,
@@ -21,7 +23,8 @@
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Joe Samuel",
         "authorImage": "https://github.com/cruip/waitlist-next/blob/main/public/images/author-03.jpg?raw=true",
-        "date": "Aug 24"
+        "date": "Aug 24",
+        "category": "News"
     },
     {
         "id": 3,
@@ -29,7 +32,8 @@
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
         "authorImage": "https://raw.githubusercontent.com/cruip/waitlist-next/main/public/images/author-01.jpg?raw=true",
-        "date": "Aug 22"
+        "date": "Aug 22",
+        "category": "News"
     },
     {
         "id": 4,
@@ -37,7 +41,8 @@
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Joe Samuel",
         "authorImage": "https://github.com/cruip/waitlist-next/blob/main/public/images/author-03.jpg?raw=true",
-        "date": "Aug 20"
+        "date": "Aug 20",
+        "category": "News"
     },
     {
         "id": 5,
@@ -45,6 +50,7 @@
         "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
         "author": "Rodrigo Sharma",
         "authorImage": "https://raw.githubusercontent.com/cruip/waitlist-next/main/public/images/author-01.jpg?raw=true",
-        "date": "Aug 20"
+        "date": "Aug 20",
+        "category": "News"
     }
 ]
